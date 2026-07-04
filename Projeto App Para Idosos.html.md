@@ -10,14 +10,6 @@ Este projeto foi desenvolvido com foco exclusivo na acessibilidade digital para 
 * **Conforto Visual:** Uso de uma imagem de fundo humanizada com idosos sorrindo, utilizando técnicas de desfoque (`backdrop-filter`) e máscaras de contraste para garantir que as caixas de texto e instruções permaneçam 100% legíveis.
 * **Voz Humana e Acolhedora:** Configuração automática através do motor de fala (`Web Speech API`) para detetar e priorizar vozes premium e naturais (como as vozes neurais da Google ou Microsoft) em português, ajustadas numa velocidade reduzida (`0.85`) e num tom calmo.
 * **Elementos Ampliados:** Botões com tamanho mínimo de toque expandido, campos de entrada de texto e palavra-passe gigantes com ícones claros e botões explícitos para "Mostrar/Ocultar" dados sensíveis sem stress.
-
----
-
-## 2. Instruções de Configuração e Uso
-1. Guarde o código fornecido na Secção 3 num ficheiro com a extensão `.html` (por exemplo: `aplicativo_senior.html`).
-2. Dê um duplo clique no ficheiro para o abrir em qualquer navegador moderno (Google Chrome, Microsoft Edge ou Safari).
-3. **Nota sobre a Voz Humana:** Para que o navegador execute a voz com o máximo de realismo, certifique-se de que o dispositivo possui ligação à Internet no primeiro carregamento, permitindo o download das vozes neurais da Google/Microsoft integradas no sistema operativo.
-
 ---
 
 ## 3. Código-Fonte Completo da Aplicação
