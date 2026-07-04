@@ -1,5 +1,5 @@
 # DOCUMENTO DE ESPECIFICAÇÃO E CÓDIGO-FONTE
-## Aplicação de Acessibilidade Sênior: Assistente Confiável com Tela de Login
+## Aplicação de Acessibilidade Sênior: Assistente Confiável 
 
 ---
 
